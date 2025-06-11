@@ -1,0 +1,4 @@
+init_script.sh
+.terraform*
+*.tfstate*
+*.log
